@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taufeeqraji
 - 👀 I’m interested in Software Section of Computer Science, Artificial Intelligence and Machine Learning
-- 🌱 I’m currently studying in Grade 11
+- 🌱 I’m currently studying in Grade 11 in ADIS, UAE
 - 📫 How to reach me raji.taufeeq@gmail.com
 
 <!---
