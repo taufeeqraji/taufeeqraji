@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @taufeeqraji
-- 👀 I’m interested in Software Section of Computer Science, Artificial Intelligence and Machine Learning
-- 🌱 I’m currently studying in Grade 12 in Abu Dhabi Indian School, UAE
+- 👋 Hi, I’m Taufeeq Raji
+- 👀 I’m interested in Software Section of Computer Science, Artificial Intelligence, Machine Learning and Data Science
+- 🌱 I’m currently studying BSc Computing Science Specialization in University of Alberta, Canada
 - 📫 How to reach me raji.taufeeq@gmail.com
 
 <!---
