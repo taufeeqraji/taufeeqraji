@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taufeeq Raji
 - 👀 I’m interested in Software Section of Computer Science, Artificial Intelligence, Machine Learning and Data Science
-- 🌱 I’m currently studying BSc Computing Science Specialization in University of Alberta, Canada
+- 🌱 I’m currently pursuing BSc Computing Science Specialization in University of Alberta, Canada
 - 📫 How to reach me raji.taufeeq@gmail.com
 
 <!---
